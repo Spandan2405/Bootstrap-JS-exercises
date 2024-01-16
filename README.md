@@ -1,1 +1,4 @@
-# TASK-2
+HTML , CSS AND BOOTSTRAP TASKS
+
+DEPLOYMENT LINK : 
+https://spandan2405.github.io/TASK-2/
